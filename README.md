@@ -1,4 +1,13 @@
-This work contains the empirical comparison of Quantum computing and classical computing based on performance, reliability, scalability, and Carbon footprints. It utilizes CPU, Ideal Quantum Noiseless Simulator, and Real IBM Quantum Hardware as hardware/devices/machines for experimentation. This Git project covers: 
+# Quantum Computing VS Classical Computing (Quantum Benchmarking)
+
+A Theoretical and Empirical Study of Performance, Reliability, and Sustainability 
+
+--- 
+
+This work contains the empirical comparison of **Quantum computing and classical computing** based on performance, reliability, scalability, and Carbon footprints. It utilizes CPU, Ideal Quantum Noiseless Simulator, and Real IBM Quantum Hardware as hardware/devices/machines for experimentation.
+
+---
+This Git project covers: 
 1.	“Read me” text file that will guide you completely about the contents or items of this contribution. 
 2.	And an excel sheet named as “Filtered CO2 intensity 236 Countries” that was used as input for the calculation of carbon footprints of every country in this world while running these programs to measure their efficiency and other benchmarks.
 3.	Excel sheet labelled as “Experiments objects' view in one place”. This gives the complete list of objects, subjects, parameters, and hardware used for this work.
@@ -6,7 +15,7 @@ This work contains the empirical comparison of Quantum computing and classical c
 5.	Overall 19 folders for algorithms/methods. 
 6.	Presentation file
 
-
+--- 
 There are 12 Quantum Algorithms & 7 Methods. So there are 19 main files/folders. Each folder is named as per the name of algorithm or method. These folders contain the following contents:
 1.	First Item type is a folder with the title “Algorithm_name/Method_name raw results on all 4 hardware”. It contains 4 subfolders; each folder is for a hardware/machine arranged serial-wise i.e.,  (1) CPU/Classical_version, (2) Ideal simulator, (3) GPU, and (4) Real IBM Hardware. Every hardware folder contains four (4) more folders that are for four (4)  benchmarks results arranged serial-wise in every algorithm/method i.e., (1) First folder is for Performance benchmark, (2) Then second one for Reliability, (3) Third folder for Scalability results, and (4) Fourth/last folder is for Carbon footprints results. Every benchmark folder has plotting results in the form of “png’jpg/jpeg” file format and raw results in excel format. 
 2.	Second/other item is an excel sheet that is titled as “Algorithm_name/Method_name Processed results all devices n benchmarks”. It contains 4 work sheets named after each benchmark(Performance, Reliability, Scalability, Carbon footprints). The first worksheet summarizes the results such as performance of that particular algorithm on all the four devices. Similarly other three (3) sheets are for the results of the remaining benchmarks (Reliability, Scalability, Carbon footprints) for that particular algo on the four (4) devices / machines.
@@ -19,11 +28,10 @@ Sr. No. 2		                  | (2)	Ideal Quantum Simulator (Noiseless)
 Sr. No. 3		                  | (3)	GPU
 Sr. No. 4		                  | (4)	Real IBM Quantum Hardware
 Sr. No. 1.1 / 2.1, 2.2 etc.		| These are instructions/CLI Guidelines on how to run the experiment or code based on different params and “N”/ “Sizes” / “Shots” / “Iterations” etc.
-                                The Sr. No. 4.1 would be for code for Real IBM Hardware and Sr. No. 4.2, and Sr. No. 4.3 can be for different sizes/iterations/experiments for real IBM                                    Quantum Hardware.
+                                The Sr. No. 4.1 would be for code for Real IBM Hardware and Sr. No. 4.2, and Sr. No. 4.3 can be for different sizes/iterations/experiments for real IBM                                    Quantum Hardware. Note: Code regarding Real IBM Quantum Hardware was run on Jupyter Notebook. You can modify code as per your environment or convenience. 								Working on different devices (Windows/Mac) and different environment (Virtual, Local or Global), and different tools will require slight modification of 								these code blocks.
 
-Note: Code regarding Real IBM Quantum Hardware was run on Jupyter Notebook. You can modify code as per your environment or convenience. Working on different devices (Windows/Mac) and different environment (Virtual, Local or Global), and different tools will require slight modification of these code blocks.
-
-
+---
+# Contact us
 Contact us and feel free to inquire anything about this work:
 
 Sr. No.	| Researcher Name	|	Contact Details	| Email Address	| Whatsapp Number:    
