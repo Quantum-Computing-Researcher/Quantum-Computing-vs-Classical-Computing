@@ -4,7 +4,7 @@ A Theoretical and Empirical Study of Performance, Reliability, and Sustainabilit
 
 --- 
 
-This work contains the empirical comparison of **Quantum computing and classical computing** based on performance, reliability, scalability, and Carbon footprints. It utilizes CPU, Ideal Quantum Noiseless Simulator, and Real IBM Quantum Hardware as hardware/devices/machines for experimentation.
+This work contains the empirical comparison of **Quantum computing and classical computing** based on performance, reliability, scalability, and Carbon footprints. It utilizes CPU, Ideal Quantum Noiseless Simulator, GPU, and Real IBM Quantum Hardware as hardware/devices/machines for experimentation.
 
 ---
 This Git project covers: 
