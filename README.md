@@ -1,4 +1,4 @@
-This work contains: 
+This work contains the empirical comparison of Quantum computing and classical computing based on performance, reliability, scalability, and Carbon footprints. It utilizes CPU, Ideal Quantum Noiseless Simulator, and Real IBM Quantum Hardware as hardware/devices/machines for experimentation. This Git project covers: 
 1.	“Read me” text file that will guide you completely about the contents or items of this contribution. 
 2.	And an excel sheet named as “Filtered CO2 intensity 236 Countries” that was used as input for the calculation of carbon footprints of every country in this world while running these programs to measure their efficiency and other benchmarks.
 3.	Excel sheet labelled as “Experiments objects' view in one place”. This gives the complete list of objects, subjects, parameters, and hardware used for this work.
